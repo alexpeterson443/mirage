@@ -1,0 +1,30 @@
+{
+  "name": "Mirage",
+  "identifier": "io.github.alexpeterson443.mirage",
+  "subtitle": "Mirage — on-device location for iPhone",
+  "iconURL": "https://raw.githubusercontent.com/alexpeterson443/mirage/main/icon.png",
+  "website": "https://github.com/alexpeterson443/mirage",
+  "apps": [
+    {
+      "name": "Mirage",
+      "bundleIdentifier": "com.alexpeterson.vanish",
+      "developerName": "Alex Peterson",
+      "subtitle": "Teleport or drive your iPhone's location",
+      "localizedDescription": "Pick a spot on the map and tap Spoof, or plan a route and drive it with real traffic lights and stop signs. Needs LocalDevVPN and a pairing file — see the setup steps on GitHub.",
+      "iconURL": "https://raw.githubusercontent.com/alexpeterson443/mirage/main/icon.png",
+      "tintColor": "#3FA9F5",
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-09",
+          "downloadURL": "https://github.com/alexpeterson443/mirage/releases/download/v1.0/Mirage.ipa",
+          "size": 19621412,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
